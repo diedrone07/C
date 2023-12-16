@@ -1,2 +1,12 @@
 # C
-c practic files
+c practice files
+
+ This is durga madhab nayak
+ it is only for the enhancement  of visualization.
+
+ more ecofriendly
+ this is my research for all my repo viewers.
+
+ thank u for visit!
+ #include<❤️ all of u ❤️> 
+ 
